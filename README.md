@@ -22,9 +22,8 @@
 <summary>More</summary>
 
 ![Github State](https://github-readme-stats.vercel.app/api?username=noxv213&show_icons=true&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noxv213&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxv213&theme=midnight-purple)
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->    
-
 </details>
