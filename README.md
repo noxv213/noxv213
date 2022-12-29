@@ -17,6 +17,13 @@
  Learning HTML! → <strong>in Progress</strong> 
 
  What's HAXE? → <strong>( Cancelled )</strong>
+ 
+<hr>
+
+## And Else..
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->    
 
 <details>
 <summary>More</summary>
@@ -24,6 +31,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=noxv213&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxv213&theme=midnight-purple)
   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->    
 </details>
