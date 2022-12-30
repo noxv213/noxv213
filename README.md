@@ -22,8 +22,7 @@
 
 ## And Else..
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->    
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noxv2133&theme=midnight-purple)
 
 <details>
 <summary>More</summary>
