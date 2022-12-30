@@ -20,7 +20,7 @@
  
 <hr>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noxv213)](https://github.com/anuraghazra/github-readme-stats)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noxv213&theme=midnight-purple)
 
 <details>
 <summary>More</summary>
