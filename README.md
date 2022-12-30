@@ -20,9 +20,6 @@
  
 <hr>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <details>
 <summary>More</summary>
 
