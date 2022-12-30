@@ -24,7 +24,9 @@
 <summary>More</summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=noxv213&theme=midnight-purple)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxv213&theme=midnight-purple)
+ 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noxv213&theme=midnight-purple)
   
 </details>
