@@ -14,8 +14,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: noxv213/noxv213
           COMMIT_MESSAGE: "Update"
           TIME_RANGE: all_time
           SHOW_TIME: true
