@@ -27,6 +27,7 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxv213&theme=midnight-purple)
  
-<img src="https://github.com/noxv213/noxv213/blob/master/images/codeStats.svg" alt="My Coding Activitys"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 </details>
