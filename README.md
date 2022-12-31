@@ -27,7 +27,6 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxv213&theme=midnight-purple)
  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noxv213&theme=midnight-purple)
   
 </details>
