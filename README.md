@@ -1,7 +1,4 @@
-# Hello There 👋 <strong>( IN EDITING )</strong> 
-
-> I code something useless like <a href="#project">this</a>.
-
+# Hello There 👋
 
 ## Languages
 <hr>
@@ -11,14 +8,6 @@
 [![TS Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#) 
 [![C,C++ Badge](https://img.shields.io/badge/-C,C++-035798?style=for-the-badge&labelColor=black&logo=c&logoColor=white)](#) 
 
-## <div id="project">My ProJect</div>
-<hr>
-
- Learning HTML! → <strong>in Progress</strong> 
-
- What's HAXE? → <strong>( Cancelled )</strong>
- 
-<hr>
 
 <details>
 <summary>More</summary>
